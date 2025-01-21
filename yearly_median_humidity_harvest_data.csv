@@ -1,0 +1,3 @@
+time,humidity,year,Unnamed: 0,country,subdivision,type,million_60kgs_bag,nonbear_mill_trees,bear_mill_trees,nonbear_thous_hect,bear_thous_hect,trees_hect_bear,trees_hect_nonbear,avg_unemp_perc
+2022-12-31,76.0,2022,105,Brazil,Minas Gerais,Arabica,24.5,1500.0,6010.0,470.0,2010.0,2990.0,3191.0,7.15
+2023-12-31,79.0,2023,110,Brazil,Minas Gerais,Arabica,28.5,1510.0,6100.0,475.0,2020.0,3020.0,3179.0,
